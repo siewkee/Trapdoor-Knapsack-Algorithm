@@ -1,4 +1,4 @@
-# Merkle-Hellman Knapsack Knapsack
+# Merkle-Hellman Knapsack
 
 Algorithm:
 = list of sizes, (x1, . . . , xn) to be super-increasing 
